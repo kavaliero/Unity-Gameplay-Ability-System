@@ -1,0 +1,25 @@
+{
+  "name": "com.blackpotion.ugas",
+  "version": "1.0.0",
+  "displayName": "Unity Gameplay Ability System (UGAS)",
+  "description": "A flexible and extensible Gameplay Ability System for Unity, inspired by Unreal Engine's GAS. Provides attribute management, abilities, gameplay effects, and a tag system.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "author": {
+    "name": "BlackPotion",
+    "url": "https://github.com/kavaliero"
+  },
+  "keywords": [
+    "gameplay",
+    "ability",
+    "system",
+    "GAS",
+    "attributes",
+    "effects",
+    "tags"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kavaliero/Unity-Gameplay-Ability-System.git"
+  }
+}

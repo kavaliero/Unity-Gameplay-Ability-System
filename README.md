@@ -29,8 +29,21 @@ A flexible and extensible Gameplay Ability System for Unity, inspired by Unreal 
 
 ## 🔧 Installation
 
-1.  Go to the [Releases page](https://github.com/sajad0131/Unity-Gameplay-Ability-System/releases).
-2.  Download the latest `UGAS by Sajad Amiri.unitypackage` file.
+### Via Unity Package Manager (Git URL)
+
+1.  Open your Unity project.
+2.  Go to `Window > Package Manager`.
+3.  Click the `+` button in the top-left corner and select **Add package from git URL...**
+4.  Enter the following URL:
+    ```
+    https://github.com/kavaliero/Unity-Gameplay-Ability-System.git?path=Assets/UGAS
+    ```
+5.  Click **Add**.
+
+### Via .unitypackage
+
+1.  Go to the [Releases page](https://github.com/kavaliero/Unity-Gameplay-Ability-System/releases).
+2.  Download the latest `.unitypackage` file.
 3.  Open your Unity project.
 4.  Import the downloaded package by navigating to `Assets > Import Package > Custom Package...`.
 
