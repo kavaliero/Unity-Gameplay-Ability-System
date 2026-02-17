@@ -30,6 +30,11 @@ namespace UnityGAS
             }
         }
 
+        public List<AttributeDefinition> GetAttributes()
+        {
+            return attributes.Keys.ToList();
+        }
+
         public AttributeValue GetAttribute(AttributeDefinition definition)
         {
             return attributes.GetValueOrDefault(definition);
